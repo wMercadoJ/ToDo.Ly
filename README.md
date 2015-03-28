@@ -9,5 +9,5 @@ Execute the TCs in the next order
 
 	
 The account used to ToDo.Ly is:
-Walter.Mercado@jalasof.com
-P@ssw0rd
+	Walter.Mercado@jalasof.com
+	P@ssw0rd
